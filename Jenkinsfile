@@ -20,7 +20,7 @@ node ('master'){
     
   //   docker.withRegistry('https://registry.hub.docker.com', 'Docker') {
   //          app.push("latest")
-        			}
+  //      			}
          }
  /*   stage('SECURITY-IMAGE-SCANNER'){
         build 'SECURITY-IMAGE-SCANNER-AQUAMICROSCANNER'
